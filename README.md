@@ -11,6 +11,7 @@ This repository presents my solutions of some kata www.codewars.com
 
 ## 5kyu
 * PaginationHelper
+* RGB To Hex Conversion
 
 ## 6kyu
 * Integer with the longest Collatz sequence
