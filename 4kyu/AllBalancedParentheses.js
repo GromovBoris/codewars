@@ -27,4 +27,4 @@ function balancedParens(n) {
   console.log(answer);
 }
 
-balancedParens(3);
+balancedParens(2);
