@@ -15,4 +15,5 @@ This repository presents my solutions of some kata www.codewars.com
 
 ## 6kyu
 * Integer with the longest Collatz sequence
+* Matrix Addition
 
