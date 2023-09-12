@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-This repository presents my solutions of some kata www.codewars.com
+This repository presents my solutions of some katas www.codewars.com
 
 
 # CURRENT SOLUTIONS
